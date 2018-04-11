@@ -1,0 +1,51 @@
+h1 {
+
+  text-align: center;
+  padding: 10px;
+
+
+  background-color: grey;
+
+}
+
+body {
+
+  background-color: lightgrey;
+}
+
+#gameStart {
+
+  text-align: center;
+}
+
+#player1, #player2, #result {
+
+  float: left;
+  border:1px solid black;
+  width: 30%;
+  height: 200px;
+  margin: 20px;
+}
+
+#chat {
+  clear: left;
+  text-align: center;
+
+
+}
+#chatArea {
+
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  margin: 0px auto;
+}
+#message {
+
+  margin-top: 20px;
+}
+
+.selected {
+
+  background-color: lightblue;
+}
